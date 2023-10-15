@@ -1,0 +1,68 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "name": "ordinateur",
+      "prix": 201000,
+      "quantite": 45,
+      "disponible": true,
+      "selectionner": false
+    },
+    {
+      "id": 2,
+      "name": "imprimante",
+      "prix": 350000,
+      "quantite": 28,
+      "disponible": true,
+      "selectionner": false
+    },
+    {
+      "id": 3,
+      "name": "souris",
+      "prix": 2500,
+      "quantite": 18,
+      "disponible": true,
+      "selectionner": false
+    },
+    {
+      "id": 4,
+      "name": "clavier",
+      "prix": 5000,
+      "quantite": 9,
+      "disponible": true,
+      "selectionner": true
+    },
+    {
+      "id": 5,
+      "name": "haut-parleur",
+      "prix": 15000,
+      "quantite": 7,
+      "disponible": true,
+      "selectionner": false
+    },
+    {
+      "id": 6,
+      "name": "disque dur",
+      "prix": 45000,
+      "quantite": 200,
+      "disponible": true,
+      "selectionner": true
+    },
+    {
+      "id": 7,
+      "name": "Casque audio",
+      "prix": 4500,
+      "quantite": 45,
+      "disponible": true,
+      "selectionner": false
+    },
+    {
+      "id": 8,
+      "name": "omduleur",
+      "prix": 65000,
+      "quantite": 21,
+      "disponible": false,
+      "selectionner": true
+    }
+  ]
+}
