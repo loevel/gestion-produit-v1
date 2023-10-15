@@ -1,2 +1,2 @@
 # gestion-produit-v1
-vdv
+product manager witch angular 16 front and json-server back
